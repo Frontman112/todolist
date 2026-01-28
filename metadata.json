@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Pulse Todo",
+  "description": "A high-performance productivity dashboard featuring AI-driven task decomposition, smart scheduling suggestions, and productivity coaching powered by Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
